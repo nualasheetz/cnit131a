@@ -1,0 +1,16 @@
+books{
+    text-align: left;
+    margin-left: 5em;
+    background-color: rgb(211, 211, 211);
+  }
+ book:nth-child(odd) {
+    background-color: lightblue;
+  }
+book {
+    display : block;
+}
+
+title{
+  color:red;
+  font-weight: bold;
+}
